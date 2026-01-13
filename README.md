@@ -1,4 +1,4 @@
-# 📚 Educational Organisation Using ServiceNow
+# 📚 Educational Management System Using ServiceNow
 
 A low-code, cloud-based project built on the ServiceNow platform to automate and streamline educational workflows — including student admissions, academic progress tracking, and form-based automation.
 
@@ -91,10 +91,9 @@ To build a centralized, digital platform that:
 
 ## 👩‍💻 Team Member
 
-**KUMMETHA NIVEDITHA**  
-- ServiceNow Developer  
-- [LinkedIn](https://www.linkedin.com/in/niveditha563)  
-- [GitHub](https://github.com/nivedithakummetha63)
+**MAHAMMAD MANSOOR**  
+- ServiceNow Developer   
+- [GitHub](https://github.com/mansoor451)
 
 ---
 
